@@ -8,18 +8,17 @@
         {"text": "Hey there", "label": "greeting"}
     ],
     "question": [
-        {"text": "How", "label": "question"},
-        {"text": "What", "label": "question"},
-        {"text": "Can", "label": "question"},
-        {"text": "Is", "label": "question"},
-        {"text": "Are", "label": "question"},
-        {"text": "Who", "label": "question"}
+        {"text": "How are you?", "label": "question"},
+        {"text": "What do you feel like?", "label": "question"},
+        {"text": "What's up", "label": "question"},
+        {"text": "Are you okey?", "label": "question"}
 
     ],
-    "name_query": [
-        {"text": "name", "label": "name_query"},
-        {"text": "yourself", "label": "name_query"},
-        {"text": "you", "label": "name_query"}
+    "chatbot_name": [
+        {"text": "What is your name", "label": "chatbot_name"},
+        {"text": "Your name", "label": "chatbot_name"},
+        {"text": "Who are you?", "label": "chatbot_name"},
+        {"text": "Do you have name?", "label": "chatbot_name"}
     ],
     "capabilities": [
         {"text": "What can you do", "label": "capabilities"},
@@ -49,26 +48,26 @@
         {"text": "This is not good", "label": "negative"},
         {"text": "I’m sad", "label": "negative"}
     ],
-    "affirmative": [
-        {"text": "Yes", "label": "affirmative"},
-        {"text": "Sure", "label": "affirmative"},
-        {"text": "Yes, indeed", "label": "affirmative"},
-        {"text": "Of course", "label": "affirmative"},
-        {"text": "Absolutely", "label": "affirmative"}
+    "positive_responses": [
+        {"text": "Yes", "label": "positive_responses"},
+        {"text": "Sure", "label": "positive_responses"},
+        {"text": "Yes, indeed", "label": "positive_responses"},
+        {"text": "Of course", "label": "positive_responses"},
+        {"text": "Absolutely", "label": "positive_responses"}
     ],
-    "negative_response": [
-        {"text": "No", "label": "negative_response"},
-        {"text": "Absolutely not", "label": "negative_response"},
-        {"text": "Not at all", "label": "negative_response"},
-        {"text": "No way", "label": "negative_response"},
-        {"text": "I don't think so", "label": "negative_response"}
+    "negative_responses": [
+        {"text": "No", "label": "negative_responses"},
+        {"text": "Absolutely not", "label": "negative_responses"},
+        {"text": "Not at all", "label": "negative_responses"},
+        {"text": "No way", "label": "negative_responses"},
+        {"text": "I don't think so", "label": "negative_responses"}
     ],
-    "thank_you": [
-        {"text": "Thank you", "label": "thank_you"},
-        {"text": "Thanks a lot", "label": "thank_you"},
-        {"text": "I appreciate it", "label": "thank_you"},
-        {"text": "Many thanks", "label": "thank_you"},
-        {"text": "Thanks!", "label": "thank_you"}
+    "thanks": [
+        {"text": "Thank you", "label": "thanks"},
+        {"text": "Thanks a lot", "label": "thanks"},
+        {"text": "I appreciate it", "label": "thanks"},
+        {"text": "Many thanks", "label": "thanks"},
+        {"text": "Thanks!", "label": "thanks"}
     ],
     "goodbye": [
         {"text": "Goodbye", "label": "goodbye"},
