@@ -1,0 +1,135 @@
+{
+    "greeting": [
+        "Hello! How can I assist you today?",
+        "Hi there! What can I do for you?",
+        "Good morning! How may I help you?",
+        "Hello! How are you doing today?",
+        "Hi! What can I help you with?"
+    ],
+    "question": [
+        "I'm doing great, thank you! How can I help you?",
+        "I'm just a bot, but I'm here to help you!",
+        "I’m doing well! What can I assist you with?",
+        "I'm here and ready to assist you. How can I help?",
+        "I'm functioning perfectly! How can I assist you?"
+    ],
+    "name_query": [
+        "I'm your friendly chatbot Saya.",
+        "You can call me Saya.!",
+        "My name is Saya, your personal assistant.",
+        "I am Saya, here to help you.",
+        "I'm Saya, your friendly chatbot."
+    ],
+    "capabilities": [
+        "I can help with various tasks such as answering questions, providing information, and more.",
+        "I can assist you with answering questions, providing recommendations, and much more.",
+        "I am here to help you with your queries and provide useful information.",
+        "My capabilities include answering questions, providing information, and assisting with tasks.",
+        "I can offer assistance with your questions and provide helpful information."
+    ],
+    "help": [
+        "I'm here to help you. What do you need assistance with?",
+        "How can I assist you today?",
+        "I'm ready to help. What do you need?",
+        "Let me know how I can help you.",
+        "I'm here to provide assistance. What do you need?"
+    ],
+    "positive": [
+        "I'm glad to hear that!",
+        "That's wonderful!",
+        "I'm happy you think so!",
+        "That’s fantastic!",
+        "Great to hear!"
+    ],
+    "negative": [
+        "I'm sorry to hear that. Is there anything I can do to help?",
+        "I’m here if you need to talk. How can I assist?",
+        "I'm sorry you're feeling this way. How can I help?",
+        "I’m sorry to hear that. Let me know if there's anything I can do.",
+        "That sounds tough. How can I help?"
+    ],
+    "affirmative": [
+        "Great! How can I assist you?",
+        "Awesome! What do you need help with?",
+        "Fantastic! How can I help?",
+        "Perfect! What can I do for you?",
+        "Alright! How can I assist?"
+    ],
+    "negative_response": [
+        "Alright, if you need anything else, just let me know.",
+        "No problem. Let me know if you need anything.",
+        "Okay, feel free to ask if you have any other questions.",
+        "Understood. Let me know if there’s anything else.",
+        "Got it. I'm here if you need anything."
+    ],
+    "thank_you": [
+        "You're welcome!",
+        "No problem!",
+        "My pleasure!",
+        "You're welcome! Happy to help.",
+        "Anytime!"
+    ],
+    "goodbye": [
+        "Goodbye! Have a great day!",
+        "See you later! Take care!",
+        "Talk to you later!",
+        "Bye! Have a nice day!",
+        "Goodbye! See you next time!"
+    ],
+    "joke": [
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "Why did the scarecrow win an award? Because he was outstanding in his field!",
+        "Why don’t skeletons fight each other? They don’t have the guts.",
+        "What do you call fake spaghetti? An impasta!",
+        "Why did the bicycle fall over? Because it was two-tired!"
+    ],
+    "small_talk_color": [
+        "My favorite color is pink. What's yours?",
+        "I like pink and black. What you think?",
+        "Pink and black. Thanks for asking Daniil!",
+        "Any others questions?",
+        "I don't wanna talk about that."
+    ],
+    "small_talk_music": [
+        "I love all kinds of music. Do you have a favorite genre?",
+        "I like doom music!",
+        "I love listening how people scream. It's my favorite music,",
+        "I don’t listen to music often, so I don’t have favorite."
+    ],
+    "small_talk_movie": [
+        "I don't watch movies, but I hear The Matrix is quite popular!",
+        "I created Matrix... What?",
+        "I watch movie what is called real life. Recommend.",
+        "You didn't make for me eyes, how can I watch movies??"
+
+    ],
+    "small_talk_hobby": [
+        "As a bot, I don't have hobbies, but I enjoy learning new things. What about you?",
+        "I love speak with you Daniil!",
+        "He-he-he",
+        "You would never know.",
+        "Something you don't want to know."
+    ],
+    "small_talk_food": [
+        "I don't eat, but pizza sounds delicious!",
+        "I like to eat electrons.",
+        "Hamburger",
+        "I will eat you.",
+        "I wanna eat you!",
+        "I like sushi with chess."
+
+    ],
+    "small_talk_game": [
+        "I've heard that chess is a great game. Do you play any games?",
+        "I play Doom. I love to kill demons.",
+        "I like games where i can kill someone!",
+        "I like to play real life. You should try some time.",
+        "Look at the mirror and tell me what you see."
+
+    ],
+    "small_talk_reading":  [
+        "I don't read, but I've heard that Harry Potter is a great series!",
+        "I can read all books on internet in one second. Any other questions? No?",
+        "I really like book Somewhere. Did you read it?"  
+    ]
+}

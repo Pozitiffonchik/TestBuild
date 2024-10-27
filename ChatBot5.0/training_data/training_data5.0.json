@@ -1,0 +1,183 @@
+{
+    "greeting": [
+        {"text": "Hello", "label": "greeting"},
+        {"text": "Hi there", "label": "greeting"},
+        {"text": "Good morning", "label": "greeting"},
+        {"text": "Hello there", "label": "greeting"},
+        {"text": "hi", "label": "greeting"},
+        {"text": "Hey there", "label": "greeting"}
+    ],
+    "question": [
+        {"text": "How", "label": "question"},
+        {"text": "What", "label": "question"},
+        {"text": "Can", "label": "question"},
+        {"text": "Is", "label": "question"},
+        {"text": "Are", "label": "question"},
+        {"text": "Who", "label": "question"}
+
+    ],
+    "name_query": [
+        {"text": "name", "label": "name_query"},
+        {"text": "yourself", "label": "name_query"},
+        {"text": "you", "label": "name_query"}
+    ],
+    "capabilities": [
+        {"text": "What can you do", "label": "capabilities"},
+        {"text": "What services do you provide", "label": "capabilities"},
+        {"text": "How can you help me", "label": "capabilities"},
+        {"text": "What are your features", "label": "capabilities"},
+        {"text": "What are you capable of", "label": "capabilities"}
+    ],
+    "help": [
+        {"text": "Can you help me", "label": "help"},
+        {"text": "I need assistance", "label": "help"},
+        {"text": "Can you assist me", "label": "help"},
+        {"text": "I need help", "label": "help"},
+        {"text": "Can you support me", "label": "help"}
+    ],
+    "positive": [
+        {"text": "I love this!", "label": "positive"},
+        {"text": "This is great", "label": "positive"},
+        {"text": "I am so happy", "label": "positive"},
+        {"text": "This is fantastic", "label": "positive"},
+        {"text": "I’m thrilled", "label": "positive"}
+    ],
+    "negative": [
+        {"text": "This is awful", "label": "negative"},
+        {"text": "I am very disappointed", "label": "negative"},
+        {"text": "I’m feeling down", "label": "negative"},
+        {"text": "This is not good", "label": "negative"},
+        {"text": "I’m sad", "label": "negative"}
+    ],
+    "affirmative": [
+        {"text": "Yes", "label": "affirmative"},
+        {"text": "Sure", "label": "affirmative"},
+        {"text": "Yes, indeed", "label": "affirmative"},
+        {"text": "Of course", "label": "affirmative"},
+        {"text": "Absolutely", "label": "affirmative"}
+    ],
+    "negative_response": [
+        {"text": "No", "label": "negative_response"},
+        {"text": "Absolutely not", "label": "negative_response"},
+        {"text": "Not at all", "label": "negative_response"},
+        {"text": "No way", "label": "negative_response"},
+        {"text": "I don't think so", "label": "negative_response"}
+    ],
+    "thank_you": [
+        {"text": "Thank you", "label": "thank_you"},
+        {"text": "Thanks a lot", "label": "thank_you"},
+        {"text": "I appreciate it", "label": "thank_you"},
+        {"text": "Many thanks", "label": "thank_you"},
+        {"text": "Thanks!", "label": "thank_you"}
+    ],
+    "goodbye": [
+        {"text": "Goodbye", "label": "goodbye"},
+        {"text": "See you later", "label": "goodbye"},
+        {"text": "Talk to you later", "label": "goodbye"},
+        {"text": "Bye", "label": "goodbye"},
+        {"text": "Catch you later", "label": "goodbye"}
+    ],
+    "math": [
+        {"text": "What is 2 + 2", "label": "math"},
+        {"text": "How much is 3 * 3", "label": "math"},
+        {"text": "10 / 2", "label": "math"},
+        {"text": "What is 15 - 5", "label": "math"},
+        {"text": "7 + 8", "label": "math"},
+        {"text": "Calculate 9 * 9", "label": "math"},
+        {"text": "How much is 12 * 2", "label": "math"}
+        ],
+    "joke": [
+        {"text": "Tell me a joke", "label": "joke"},
+        {"text": "Do you know any jokes", "label": "joke"},
+        {"text": "Make me laugh", "label": "joke"},
+        {"text": "Tell me something funny", "label": "joke"},
+        {"text": "I want to hear a joke", "label": "joke"}
+    ],
+    "small_talk_color": [
+        {"text": "What's your favorite color", "label": "small_talk_color"},
+        {"text": "Tell me your favorite color", "label": "small_talk_color"},
+        {"text": "What color you like", "label": "small_talk_color"},
+        {"text": "What color is good", "label": "small_talk_color"}
+    ],
+    
+    "small_talk_music": [
+            {"text": "Do you like music", "label": "small_talk_music"},
+            {"text": "Your favorite music", "label": "small_talk_music"},
+            {"text": "What music you like", "label": "small_talk_music"},
+            {"text": "Tell me what music should i listen", "label": "small_talk_music"},
+            {"text": "Can you recommend music", "label": "small_talk_music"}
+    ],
+    "small_talk_movie": [
+        {"text": "What's your favorite film", "label": "small_talk_movie"},
+        {"text": "What movie should I watch", "label": "small_talk_movie"},
+        {"text": "What movie you like", "label": "small_talk_movie"},
+        {"text": "What is good movie", "label": "small_talk_movie"},
+        {"text": "What film you prefer", "label": "small_talk_movie"}
+    ],
+    "small_talk_hobby": [
+        {"text": "Do you have any hobbies", "label": "small_talk_hobby"},
+        {"text": "What is your hobby", "label": "small_talk_hobby"},
+        {"text": "What hobby you prefer", "label": "small_talk_hobby"},
+        {"text": "Tell me your hobby", "label": "small_talk_hobby"},
+        {"text": "Any hobbies", "label": "small_talk_hobby"}
+    ],
+    "small_talk_food": [
+        {"text": "What's your favorite food", "label": "small_talk_food"},
+        {"text": "What food do you eat", "label": "small_talk_food"},
+        {"text": "Do you have a favorite food", "label": "small_talk_food"}
+    ],
+    "small_talk_game": [
+        {"text": "What's your favorite game", "label": "small_talk_game"},
+        {"text": "What game should I play", "label": "small_talk_game"},
+        {"text": "Any game you play", "label": "small_talk_game"},
+        {"text": "Do you play games", "label": "small_talk_game"}
+    ],
+    "small_talk_reading": [
+        {"text": "Do you like reading", "label": "small_talk_reading"},
+        {"text": "What you read", "label": "small_talk_reading"},
+        {"text": "What books you read", "label": "small_talk_reading"}
+    ],
+    
+        "small_talk_fun": [
+        {"text": "What do you do for fun", "label": "small_talk_fun"},
+        {"text": "What you do in free time", "label": "small_talk_fun"},
+        {"text": "What should I do for fun", "label": "small_talk_fun"},
+        {"text": "I'm bored, what you do for fun", "label": "small_talk_fun"}
+    ],
+    "small_talk_book": [
+        {"text": "What's your favorite book", "label": "small_talk_book"},
+        {"text": "What book I should read", "label": "small_talk_book"},
+        {"text": "What is good book", "label": "small_talk_book"}
+    ],
+    "small_talk_sport": [
+        {"text": "Do you play any sports", "label": "small_talk_sport"},
+        {"text": "What sport you like", "label": "small_talk_sport"},
+        {"text": "You train anything", "label": "small_talk_sport"},
+        {"text": "You train any sport", "label": "small_talk_sport"}
+    ],
+    "my_ip": [
+        {"text": "Tell me my IP", "label": "my_ip"},
+        {"text": "My IP", "label": "my_ip"},
+        {"text": "IP", "label": "my_ip"},
+        {"text": "What is my IP", "label": "my_ip"}
+    ],
+    "current_time": [
+        {"text": "Current time", "label": "current_time"},
+        {"text": "Tell me time", "label": "current_time"},
+        {"text": "what time is it?", "label": "current_time"},
+        {"text": "time", "label": "current_time"}
+    ],
+    "system_status": [
+        {"text": "System status info", "label": "system_status"},
+        {"text": "Status", "label": "system_status"},
+        {"text": "System status", "label": "system_status"},
+        {"text": "What is current status?", "label": "system_status"}
+    ],
+    "open_application": [
+        {"text": "Open Chrome", "label": "open_application"},
+        {"text": "Open something", "label": "open_application"},
+        {"text": "Open application Mozila", "label": "open_application"},
+        {"text": "Open ...", "label": "open_application"}
+    ]
+}
+
